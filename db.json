@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": "A001",
+        "descripcion": "Caja de herramientas",
+        "proveedor": "Ferretería Central"
+    },
+    {
+        "codigo": "B002",
+        "descripcion": "Martillo de acero",
+        "proveedor": "Herramientas del Norte"
+    },
+    {
+        "codigo": "C003",
+        "descripcion": "Taladro inalámbrico",
+        "proveedor": "ElectroPro"
+    },
+    {
+        "codigo": "D004",
+        "descripcion": "Juego de llaves",
+        "proveedor": "Ferretería Central"
+    },
+    {
+        "codigo": "E005",
+        "descripcion": "Destornillador eléctrico",
+        "proveedor": "ElectroPro"
+    }
+]

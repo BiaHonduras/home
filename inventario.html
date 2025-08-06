@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inventario</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        #login, #app { max-width: 600px; margin: auto; }
+        .hidden { display: none; }
+        input, select, button { margin: 5px 0; padding: 8px; width: 100%; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+
+<div id="login">
+    <h2>Acceso al sistema</h2>
+    <input type="password" id="password" placeholder="Ingrese su contraseña">
+    <button onclick="login()">Ingresar</button>
+    <p id="loginError" style="color:red;"></p>
+</div>
+
+<div id="app" class="hidden">
+    <h2>Inventario</h2>
+    <input type="text" id="searchCode" placeholder="Buscar por código">
+    <input type="text" id="searchDesc" placeholder="Buscar por descripción">
+    <input type="text" id="searchProv" placeholder="Buscar por proveedor">
+    <button onclick="search()">Buscar</button>
+    <table id="results">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Descripción</th>
+                <th>Proveedor</th>
+                <th>Cantidad</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script>
+    const vendedoresPass = "vendedor123";
+    const bodegaPass = "bodega456";
+    let userRole = "";
+
+    function login() {
+        const pass = document.getElementById("password").value;
+        if (pass === vendedoresPass) {
+            userRole = "Vendedor";
+        } else if (pass === bodegaPass) {
+            userRole = "Bodega";
+        } else {
+            document.getElementById("loginError").textContent = "Contraseña incorrecta.";
+            return;
+        }
+        document.getElementById("login").classList.add("hidden");
+        document.getElementById("app").classList.remove("hidden");
+        loadData();
+    }
+
+    let data = [];
+
+    function loadData() {
+        fetch("db.json")
+            .then(response => response.json())
+            .then(json => {
+                data = json;
+                displayResults(data);
+            });
+    }
+
+    function search() {
+        const code = document.getElementById("searchCode").value.toLowerCase();
+        const desc = document.getElementById("searchDesc").value.toLowerCase();
+        const prov = document.getElementById("searchProv").value.toLowerCase();
+
+        const filtered = data.filter(item =>
+            item.codigo.toLowerCase().includes(code) &&
+            item.descripcion.toLowerCase().includes(desc) &&
+            item.proveedor.toLowerCase().includes(prov)
+        );
+
+        displayResults(filtered);
+    }
+
+    function displayResults(items) {
+        const tbody = document.querySelector("#results tbody");
+        tbody.innerHTML = "";
+        items.forEach(item => {
+            const row = `<tr>
+                <td>${item.codigo}</td>
+                <td>${item.descripcion}</td>
+                <td>${item.proveedor}</td>
+                <td>${item.cantidad}</td>
+            </tr>`;
+            tbody.innerHTML += row;
+        });
+    }
+</script>
+
+</body>
+</html>
