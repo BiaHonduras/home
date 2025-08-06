@@ -43,16 +43,16 @@
 </div>
 
 <script>
-    const vendedoresPass = "vendedor123";
-    const bodegaPass = "bodega456";
+    const vendedoresPass = "VendedoresBia123";
+    const bodegaPass = "BodegaBia123";
     let userRole = "";
 
     function login() {
         const pass = document.getElementById("password").value;
         if (pass === vendedoresPass) {
-            userRole = "Vendedor";
+            userRole = "Vendedores BIA";
         } else if (pass === bodegaPass) {
-            userRole = "Bodega";
+            userRole = "Bodega BIA";
         } else {
             document.getElementById("loginError").textContent = "Contraseña incorrecta.";
             return;
