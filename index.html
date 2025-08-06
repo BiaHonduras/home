@@ -1,34 +1,64 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <title>BIA Honduras</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        #login, #app { max-width: 600px; margin: auto; }
-        .hidden { display: none; }
-        input, select, button { margin: 5px 0; padding: 8px; width: 100%; }
-        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        input {
+            padding: 8px;
+            margin: 5px;
+            width: 80%;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #555;
+        }
     </style>
 </head>
 <body>
 
-<div id="login">
-    <h2>Validador de Base de Datos - BIA Honduras</h2>
-    <input type="password" id="password" placeholder="Ingrese su contraseña">
-    <button onclick="login()">Ingresar</button>
-    <p id="loginError" style="color:red;"></p>
-</div>
+    <!-- Imagen superior -->
+    <img src="https://media.licdn.com/dms/image/vAQb2dGZI7EA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1700756332149?e=2147483647&amp;v=beta&amp;t=o7eTXGAeYd7OI4dG--IoUCEgshZqZ3KwxmGBxpJYOkM
 
-<div id="app" class="hidden">
-    <h2>Inventario</h2>
+    <h1>BIA Honduras</h1>
+    <h3>Validador de Base de Datos - BIA Honduras</h3>
+
+    <h3>Inventario</h3>
+
+    <!-- Campos de búsqueda -->
     <input type="text" id="searchCode" placeholder="Buscar por código">
     <input type="text" id="searchDesc" placeholder="Buscar por descripción">
     <input type="text" id="searchProv" placeholder="Buscar por proveedor">
     <button onclick="search()">Buscar</button>
+
+    <!-- Tabla de resultados -->
     <table id="results">
         <thead>
             <tr>
@@ -40,67 +70,51 @@
         </thead>
         <tbody></tbody>
     </table>
-</div>
 
-<script>
-    const vendedoresPass = "VendedoresBia123";
-    const bodegaPass = "BodegaBia123";
-    let userRole = "";
+    <!-- Leyenda inferior -->
+    <footer>
+        Creado por Hernán Manuel Pérez Banegas - Verificador de Inventarios SPS - Bia Honduras
+    </footer>
 
-    function login() {
-        const pass = document.getElementById("password").value;
-        if (pass === vendedoresPass) {
-            userRole = "Vendedores BIA";
-        } else if (pass === bodegaPass) {
-            userRole = "Bodega BIA";
-        } else {
-            document.getElementById("loginError").textContent = "Contraseña incorrecta.";
-            return;
-        }
-        document.getElementById("login").classList.add("hidden");
-        document.getElementById("app").classList.remove("hidden");
-        loadData();
-    }
+    <!-- Script para búsqueda -->
+    <script>
+        let data = [];
 
-    let data = [];
-
-    function loadData() {
+        // Cargar datos desde db.json
         fetch("db.json")
             .then(response => response.json())
             .then(json => {
-                data = json;
+                data = json.productos;
                 displayResults(data);
             });
-    }
 
-    function search() {
-        const code = document.getElementById("searchCode").value.toLowerCase();
-        const desc = document.getElementById("searchDesc").value.toLowerCase();
-        const prov = document.getElementById("searchProv").value.toLowerCase();
+        function search() {
+            const code = document.getElementById("searchCode").value.toLowerCase();
+            const desc = document.getElementById("searchDesc").value.toLowerCase();
+            const prov = document.getElementById("searchProv").value.toLowerCase();
 
-        const filtered = data.filter(item =>
-            item.codigo.toLowerCase().includes(code) &&
-            item.descripcion.toLowerCase().includes(desc) &&
-            item.proveedor.toLowerCase().includes(prov)
-        );
+            const filtered = data.filter(item =>
+                item.codigo.toString().toLowerCase().includes(code) &&
+                item.descripcion.toLowerCase().includes(desc) &&
+                item.proveedor.toLowerCase().includes(prov)
+            );
 
-        displayResults(filtered);
-    }
+            displayResults(filtered);
+        }
 
-    function displayResults(items) {
-        const tbody = document.querySelector("#results tbody");
-        tbody.innerHTML = "";
-        items.forEach(item => {
-            const row = `<tr>
-                <td>${item.codigo}</td>
-                <td>${item.descripcion}</td>
-                <td>${item.proveedor}</td>
-                <td>${item.cantidad}</td>
-            </tr>`;
-            tbody.innerHTML += row;
-        });
-    }
-</script>
-
+        function displayResults(items) {
+            const tbody = document.querySelector("#results tbody");
+            tbody.innerHTML = "";
+            items.forEach(item => {
+                const row = `<tr>
+                    <td>${item.codigo}</td>
+                    <td>${item.descripcion}</td>
+                    <td>${item.proveedor}</td>
+                    <td>${item.cantidad}</td>
+                </tr>`;
+                tbody.innerHTML += row;
+            });
+        }
+    </script>
 </body>
 </html>
