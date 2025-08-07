@@ -2,7 +2,8 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>BIA Honduras - Inicio</title>
+    <title>Inicio - BIA Honduras</title>
+    <link rel="icon" href="https://biafoods.com/" type="image/png">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,22 +18,20 @@
             object-fit: cover;
         }
         .container {
-            max-width: 400px;
+            max-width: 600px;
             margin: 40px auto;
             background: white;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
-        input {
+        input, select, button {
             padding: 10px;
             margin: 10px 0;
             width: 100%;
             box-sizing: border-box;
         }
         button {
-            padding: 10px 20px;
-            width: 100%;
             background-color: #0077cc;
             color: white;
             border: none;
@@ -54,15 +53,21 @@
 <body>
 
 <header>
-    <img src="https://github.com/BiaHonduras/home/blob/main/BIAHonduras.jfif"
+    <img src="https://github.com/BiaHonduras/home/blob/main/BIAHonduras.jfif
 </header>
 
 <div class="container">
     <h2>Bienvenido a BIA Honduras</h2>
-    <p>Ingrese su contraseña para acceder</p>
+    <p>Seleccione su usuario y contraseña para acceder</p>
+    <select id="usuario">
+        <option value="vendedor">Vendedores</option>
+        <option value="bodega">Bodega</option>
+    </select>
     <input type="password" id="password" placeholder="Contraseña">
     <button onclick="login()">Ingresar</button>
+    <p><a href="#" onclick="mostrarContrasenas()">Se me olvidó la contraseña</a></p>
     <p id="loginError" style="color:red;"></p>
+    <p id="contrasenas" style="color:green;"></p>
 </div>
 
 <footer>
@@ -70,18 +75,20 @@
 </footer>
 
 <script>
-    const vendedoresPass = "VendedoresBia123";
-    const bodegaPass = "BodegaBia123";
-
     function login() {
+        const user = document.getElementById("usuario").value;
         const pass = document.getElementById("password").value;
-        if (pass === vendedoresPass) {
+        if (user === "vendedor" && pass === "VendedoresBia123") {
             window.location.href = "vendedores.html";
-        } else if (pass === bodegaPass) {
+        } else if (user === "bodega" && pass === "BodegaBia123") {
             window.location.href = "bodega.html";
         } else {
-            document.getElementById("loginError").textContent = "Contraseña incorrecta.";
+            document.getElementById("loginError").textContent = "Usuario o contraseña incorrecta.";
         }
+    }
+    function mostrarContrasenas() {
+        document.getElementById("contrasenas").textContent =
+            "Contraseña Vendedores: VendedoresBia123 | Contraseña Bodega: BodegaBia123";
     }
 </script>
 
