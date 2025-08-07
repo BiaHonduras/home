@@ -1,81 +1,150 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <title>Bodega - BIA Honduras</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #ffffff; padding: 20px; }
-        img { max-width: 100%; height: auto; margin-bottom: 20px; }
-        input { padding: 8px; margin: 5px; width: 80%; }
-        button { padding: 10px 20px; margin: 10px; }
-        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-        th, td { border: 1px solid #ccc; padding: 8px; }
-        th { background-color: #f2f2f2; }
-        footer { margin-top: 40px; font-size: 0.9em; color: #555; text-align: center; }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: url('https://raw.githubusercontent.com/BiaHonduras/home/main/background.jpg') no-repeat center center fixed;
+            background-size: cover;
+        }
+        header {
+            display: flex;
+            justify-content: flex-end;
+            padding: 10px;
+        }
+        .logout-button {
+            padding: 6px 12px;
+            font-size: 12px;
+            background-color: #0077cc;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .search-container {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            max-width: 300px;
+            margin-bottom: 20px;
+        }
+        input {
+            padding: 8px;
+            margin: 5px 0;
+            width: 100%;
+        }
+        button {
+            padding: 8px 16px;
+            margin-top: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: white;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            font-size: 0.9em;
+            color: #555;
+            background-color: #eaeaea;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
-    <img src="https://raw.githubusercontent.com/BiaHonduras/home/main/BIABrands.png" alt="Encabezado BIA">
-    <h2>Verificacion de Base de Datos - Bodega BIA Honduras SPS</h2>
+
+<header>
+    <button class="logout-button" onclick="window.location.href='index.html'">Salir</button>
+</header>
+
+<h2 style="text-align:center;">Inventario - Bodega BIA Honduras</h2>
+
+<div class="search-container">
     <input type="text" id="searchCode" placeholder="Buscar por código">
     <input type="text" id="searchDesc" placeholder="Buscar por descripción">
     <input type="text" id="searchProv" placeholder="Buscar por proveedor">
     <button onclick="search()">Buscar</button>
-    <table id="results">
-        <thead>
-            <tr>
-                <th>Código</th>
-                <th>Descripción del Artículo</th>
-                <th>Proveedor</th>
-                <th>Factor</th>
-                <th>Unidades por Cama</th>
-                <th>Camas por Tarima</th>
-                <th>Imagen del Producto</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-    <footer>
-        Creado por Hernán Manuel Pérez Banegas - Verificador de Inventarios SPS - Bia Honduras
-    </footer>
-    <script>
-        let data = [];
-        fetch("bodega.json")
-            .then(response => response.json())
-            .then(json => {
-                data = json.productos;
-                displayResults(data);
-            });
+</div>
 
-        function search() {
-            const code = document.getElementById("searchCode").value.toLowerCase();
-            const desc = document.getElementById("searchDesc").value.toLowerCase();
-            const prov = document.getElementById("searchProv").value.toLowerCase();
-            const filtered = data.filter(item =>
-                item.codigo.toLowerCase().includes(code) &&
-                item.descripcion.toLowerCase().includes(desc) &&
-                item.proveedor.toLowerCase().includes(prov)
-            );
-            displayResults(filtered);
-        }
+<table id="results">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Descripción del Artículo</th>
+            <th>Proveedor</th>
+            <th>Factor</th>
+            <th>Unidades por Cama</th>
+            <th>Camas por Tarima</th>
+            <th>Imagen del Producto</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
 
-        function displayResults(items) {
-            const tbody = document.querySelector("#results tbody");
-            tbody.innerHTML = "";
-            items.forEach(item => {
-                const row = `<tr>
-                    <td>${item.codigo}</td>
-                    <td>${item.descripcion}</td>
-                    <td>${item.proveedor}</td>
-                    <td>${item.factor}</td>
-                    <td>${item.unidades_por_cama}</td>
-                    <td>${item.camas_por_tarima}</td>
-                    <td><img src="${item.imagen}" alt="Imagen" width="50"></td>
-                </tr>`;
-                tbody.innerHTML += row;
-            });
-        }
-    </script>
+<footer>
+    Creado por Hernán Manuel Pérez Banegas - Verificador de Inventarios SPS - Bia Honduras
+</footer>
+
+<script>
+    let data = [];
+
+    fetch("bodega.json")
+        .then(response => response.json())
+        .then(json => {
+            data = json.productos;
+            displayResults(data);
+        });
+
+    function search() {
+        const code = document.getElementById("searchCode").value.toLowerCase();
+        const desc = document.getElementById("searchDesc").value.toLowerCase();
+        const prov = document.getElementById("searchProv").value.toLowerCase();
+
+        const filtered = data.filter(item =>
+            item.codigo.toString().toLowerCase().includes(code) &&
+            item.descripcion.toLowerCase().includes(desc) &&
+            item.proveedor.toLowerCase().includes(prov)
+        );
+
+        displayResults(filtered);
+    }
+
+    function displayResults(items) {
+        const tbody = document.querySelector("#results tbody");
+        tbody.innerHTML = "";
+        items.forEach(item => {
+            const imgLinks = [];
+            if (item.imagen1) {
+                imgLinks.push(`<a href="${item.imagen1}" target="_blank">1</a>`);
+            }
+            if (item.imagen2) {
+                imgLinks.push(`<a href="${item.imagen2}" target="_blank">2</a>`);
+            }
+            const row = `<tr>
+                <td>${item.codigo}</td>
+                <td>${item.descripcion}</td>
+                <td>${item.proveedor}</td>
+                <td>${item.factor}</td>
+                <td>${item.unidades_por_cama || ''}</td>
+                <td>${item.camas_por_tarima || ''}</td>
+                <td>${imgLinks.join(" ")}</td>
+            </tr>`;
+            tbody.innerHTML += row;
+        });
+    }
+</script>
+
 </body>
 </html>
