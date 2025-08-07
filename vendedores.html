@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendedores - BIA Honduras</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #ffffff; padding: 20px; }
+        img { max-width: 100%; height: auto; margin-bottom: 20px; }
+        input { padding: 8px; margin: 5px; width: 80%; }
+        button { padding: 10px 20px; margin: 10px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ccc; padding: 8px; }
+        th { background-color: #f2f2f2; }
+        footer { margin-top: 40px; font-size: 0.9em; color: #555; text-align: center; }
+    </style>
+</head>
+<body>
+    <img src="https://raw.githubusercontent.com/BiaHonduras/home/main/BIAHonduras.jfif" alt="Encabezado BIA">
+    <h2>Inventario - Vendedores</h2>
+    <input type="text" id="searchCode" placeholder="Buscar por código">
+    <input type="text" id="searchDesc" placeholder="Buscar por descripción">
+    <input type="text" id="searchProv" placeholder="Buscar por proveedor">
+    <button onclick="search()">Buscar</button>
+    <table id="results">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Descripción del Artículo</th>
+                <th>Proveedor</th>
+                <th>Factor</th>
+                <th>Imagen del Producto</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <footer>
+        Creado por Hernán Manuel Pérez Banegas - Verificador de Inventarios SPS - Bia Honduras
+    </footer>
+    <script>
+        let data = [];
+        fetch("vendedores.json")
+            .then(response => response.json())
+            .then(json => {
+                data = json.productos;
+                displayResults(data);
+            });
+
+        function search() {
+            const code = document.getElementById("searchCode").value.toLowerCase();
+            const desc = document.getElementById("searchDesc").value.toLowerCase();
+            const prov = document.getElementById("searchProv").value.toLowerCase();
+            const filtered = data.filter(item =>
+                item.codigo.toLowerCase().includes(code) &&
+                item.descripcion.toLowerCase().includes(desc) &&
+                item.proveedor.toLowerCase().includes(prov)
+            );
+            displayResults(filtered);
+        }
+
+        function displayResults(items) {
+            const tbody = document.querySelector("#results tbody");
+            tbody.innerHTML = "";
+            items.forEach(item => {
+                const row = `<tr>
+                    <td>${item.codigo}</td>
+                    <td>${item.descripcion}</td>
+                    <td>${item.proveedor}</td>
+                    <td>${item.factor}</td>
+                    <td><img src="${item.imagen}" alt="Imagen" width="50"></td>
+                </tr>`;
+                tbody.innerHTML += row;
+            });
+        }
+    </script>
+</body>
+</html>
