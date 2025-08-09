@@ -1272,7 +1272,7 @@
     {
       "codigo": "170001",
       "descripcion": "Café El Indio 1x16 453 g                               ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1281,7 +1281,7 @@
     {
       "codigo": "170002",
       "descripcion": "Indio 8 onz Kraft",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1290,7 +1290,7 @@
     {
       "codigo": "170003",
       "descripcion": "Indio Tradicional 216 g                           ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1299,7 +1299,7 @@
     {
       "codigo": "170004",
       "descripcion": "Indio Tradicional 6 Onz                                ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1308,7 +1308,7 @@
     {
       "codigo": "170005",
       "descripcion": "Indio Tradicional 432 g                          ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1317,7 +1317,7 @@
     {
       "codigo": "170006",
       "descripcion": "Indio 378g",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1326,7 +1326,7 @@
     {
       "codigo": "170007",
       "descripcion": "Indio Express puro 2 lbs Grano                         ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 25.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1335,7 +1335,7 @@
     {
       "codigo": "170008",
       "descripcion": "Indio 100% puro 2.5 Onz                      ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1344,7 +1344,7 @@
     {
       "codigo": "170009",
       "descripcion": "Indio Espresso Roast 12 Onz                            ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1353,7 +1353,7 @@
     {
       "codigo": "170010",
       "descripcion": "Indio Espresso Roast 12 Onz (Grano)                    ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 40.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1362,7 +1362,7 @@
     {
       "codigo": "170011",
       "descripcion": "Indio Tipo Arabe 12 Onz                                ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1371,7 +1371,7 @@
     {
       "codigo": "170012",
       "descripcion": "Indio Percolador 12 Onz                                ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1380,7 +1380,7 @@
     {
       "codigo": "170013",
       "descripcion": "Indio Medium Roast 12 Onz                              ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1389,7 +1389,7 @@
     {
       "codigo": "170014",
       "descripcion": "Indio Medium Roast 12 Onz (Grano)                  ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 40.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1398,7 +1398,7 @@
     {
       "codigo": "170015",
       "descripcion": "Indio Tradicional 390 gr                               ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1407,7 +1407,7 @@
     {
       "codigo": "170016",
       "descripcion": "Indio 208 gr                                           ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1416,7 +1416,7 @@
     {
       "codigo": "170017",
       "descripcion": "Indio Torrefacto Caja Export 390 g                     ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 30.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1425,7 +1425,7 @@
     {
       "codigo": "170021",
       "descripcion": "Oro 8 onz Pol                                          ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1434,7 +1434,7 @@
     {
       "codigo": "170022",
       "descripcion": "Oro 6 onz                                              ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1443,7 +1443,7 @@
     {
       "codigo": "170023",
       "descripcion": "Oro 432 gr                                             ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1452,7 +1452,7 @@
     {
       "codigo": "170024",
       "descripcion": "Oro 216 gr                                             ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1461,7 +1461,7 @@
     {
       "codigo": "170025",
       "descripcion": "Oro 378 gr",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1470,7 +1470,7 @@
     {
       "codigo": "170028",
       "descripcion": "Oro 405 gr                                             ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1479,7 +1479,7 @@
     {
       "codigo": "170029",
       "descripcion": "Oro Torrefacto Caja Export 432 g                       ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 30.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1488,7 +1488,7 @@
     {
       "codigo": "170030",
       "descripcion": "Indio Torrefacto Caja Export  432 g                    ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 30.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1497,7 +1497,7 @@
     {
       "codigo": "170032",
       "descripcion": "Rey 432 gr                                             ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1506,7 +1506,7 @@
     {
       "codigo": "170034",
       "descripcion": "Rey 390 gr                                             ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1515,7 +1515,7 @@
     {
       "codigo": "170038",
       "descripcion": "Indio Tradicional 364 g                                ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1524,7 +1524,7 @@
     {
       "codigo": "170040",
       "descripcion": "Oro 324 g                                              ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1533,7 +1533,7 @@
     {
       "codigo": "170042",
       "descripcion": "Corona 432 gr                                          ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1542,7 +1542,7 @@
     {
       "codigo": "170043",
       "descripcion": "Corona 390 gr                                          ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1551,7 +1551,7 @@
     {
       "codigo": "170046",
       "descripcion": "Indio Tradicional 312 g                                ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1560,7 +1560,7 @@
     {
       "codigo": "170047",
       "descripcion": "Rey 1x14 350 g                                         ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1569,7 +1569,7 @@
     {
       "codigo": "170048",
       "descripcion": "Corona 1x14 350 g                                      ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1578,7 +1578,7 @@
     {
       "codigo": "170052",
       "descripcion": "Delicia 432 gr                                         ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1587,7 +1587,7 @@
     {
       "codigo": "170053",
       "descripcion": "Delicia 375 gr                                         ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1596,7 +1596,7 @@
     {
       "codigo": "170054",
       "descripcion": "Caja de Exportacion Indio 432gr",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 30.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1605,7 +1605,7 @@
     {
       "codigo": "170055",
       "descripcion": "Combo Oro 405 g + Indio 390 g + Delicia 375 g          ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 1.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1614,7 +1614,7 @@
     {
       "codigo": "170057",
       "descripcion": "Combo Oro 405 g + Maya 390 g + Corona 390 g            ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 1.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1623,7 +1623,7 @@
     {
       "codigo": "170058",
       "descripcion": "Combo Oro 405 g + Medalla 390 g + Delicia 375 g        ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 1.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1632,7 +1632,7 @@
     {
       "codigo": "170059",
       "descripcion": "Delicia 1x14 350 g                                     ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1641,7 +1641,7 @@
     {
       "codigo": "170060",
       "descripcion": "Combo Oro 378 g + Rey 350 g + Delicia 350 g            ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 1.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1650,7 +1650,7 @@
     {
       "codigo": "170061",
       "descripcion": "Combo Oro 378 g + Medalla 364 g + Delicia 350 g        ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 1.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1659,7 +1659,7 @@
     {
       "codigo": "170063",
       "descripcion": "Combo Oro 378 g + Maya 364 g + Corona 350 g            ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 1.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -1668,7 +1668,7 @@
     {
       "codigo": "170064",
       "descripcion": "Combos 5 Pack Oro 378 gr + 1  Oro 216 g                ",
-      "proveedor": "GK - GP",
+      "proveedor": "GKSA",
       "factor": 1.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6303,7 +6303,7 @@
     {
       "codigo": "10100",
       "descripcion": "Una version de cafe y una taza coleccionable",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6312,7 +6312,7 @@
     {
       "codigo": "10101",
       "descripcion": "Indio Tradicional 16 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6321,7 +6321,7 @@
     {
       "codigo": "10102",
       "descripcion": "Indio Tradicional 1 Lbs (Gene)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6330,7 +6330,7 @@
     {
       "codigo": "10103",
       "descripcion": "Indio Tradicional 8 Onz Pol.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6339,7 +6339,7 @@
     {
       "codigo": "10104",
       "descripcion": "Indio 8 onz Kraft",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6348,7 +6348,7 @@
     {
       "codigo": "10105",
       "descripcion": "Indio Tradicional 6 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6357,7 +6357,7 @@
     {
       "codigo": "10106",
       "descripcion": "Indio Puro 6 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6366,7 +6366,7 @@
     {
       "codigo": "10107",
       "descripcion": "Indio Al Vacio Arabe 14 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6375,7 +6375,7 @@
     {
       "codigo": "10108",
       "descripcion": "Indio Al Vacio Percolador 14on",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6384,7 +6384,7 @@
     {
       "codigo": "10109",
       "descripcion": "Indio Al Vacio Puro 14 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6393,7 +6393,7 @@
     {
       "codigo": "10110",
       "descripcion": "Indio Tradicional 432 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6402,7 +6402,7 @@
     {
       "codigo": "101100",
       "descripcion": "Indio Tradicional 14 Onzas Temporal",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6411,7 +6411,7 @@
     {
       "codigo": "101101",
       "descripcion": "Indio Tradicional 14 Onzas Temporal",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6420,7 +6420,7 @@
     {
       "codigo": "101102",
       "descripcion": "Indio Tradicional 16 Onzas Temporal",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6429,7 +6429,7 @@
     {
       "codigo": "101103",
       "descripcion": "Caja de Exportacion Indio 432gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 30.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6438,7 +6438,7 @@
     {
       "codigo": "101104",
       "descripcion": "Caja de exportacion Indio 453.5gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6447,7 +6447,7 @@
     {
       "codigo": "101105",
       "descripcion": "Indio Tradicional 390 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6456,7 +6456,7 @@
     {
       "codigo": "101106",
       "descripcion": "Indio 208 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6465,7 +6465,7 @@
     {
       "codigo": "101107",
       "descripcion": "Indio Tradicional 364 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6474,7 +6474,7 @@
     {
       "codigo": "101108",
       "descripcion": "Caja de Exportacion Indio 390 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6483,7 +6483,7 @@
     {
       "codigo": "10111",
       "descripcion": "Indio Tradicional 216 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6492,7 +6492,7 @@
     {
       "codigo": "10112",
       "descripcion": "Indio Percolador 2 Lbs",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6501,7 +6501,7 @@
     {
       "codigo": "10113",
       "descripcion": "Indio Puro 2 Lbs Poli.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6510,7 +6510,7 @@
     {
       "codigo": "10114",
       "descripcion": "Indio Tradicional 378 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6519,7 +6519,7 @@
     {
       "codigo": "10115",
       "descripcion": "Indio Tradicional 1 Onz Promo.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6528,7 +6528,7 @@
     {
       "codigo": "10116",
       "descripcion": "Indio 1 Onz Puro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6537,7 +6537,7 @@
     {
       "codigo": "10117",
       "descripcion": "Indio de Sabores 4 Uni. 3 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6546,7 +6546,7 @@
     {
       "codigo": "10118",
       "descripcion": "Indio Express Puro 4 Lbs Grano",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6555,7 +6555,7 @@
     {
       "codigo": "10119",
       "descripcion": "Indio en grano 2 lbs pol.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6564,7 +6564,7 @@
     {
       "codigo": "10120",
       "descripcion": "Indio 100% Puro Grano 5lbs Gen",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6573,7 +6573,7 @@
     {
       "codigo": "10121",
       "descripcion": "Indio Amaretto Grano 5lbs (Gen)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6582,7 +6582,7 @@
     {
       "codigo": "10122",
       "descripcion": "Indio Pina Colada grano 5lbs G",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6591,7 +6591,7 @@
     {
       "codigo": "10123",
       "descripcion": "Indio Vainilla grano 5lbs Gen.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6600,7 +6600,7 @@
     {
       "codigo": "10124",
       "descripcion": "Indio Canela Grano 5lbs (Gen.)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6609,7 +6609,7 @@
     {
       "codigo": "10125",
       "descripcion": "Indio Chocolate Grano 5lbs Gen",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6618,7 +6618,7 @@
     {
       "codigo": "10126",
       "descripcion": "Indio Avellana Grano 5lbs Gen.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6627,7 +6627,7 @@
     {
       "codigo": "10127",
       "descripcion": "Indio Amareto 8 onz Molido Val",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6636,7 +6636,7 @@
     {
       "codigo": "10128",
       "descripcion": "Indio Pina Colada 8 Onz Mol-Va",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6645,7 +6645,7 @@
     {
       "codigo": "10129",
       "descripcion": "Indio Vainilla 8 Onz Moli-Valv",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6654,7 +6654,7 @@
     {
       "codigo": "10130",
       "descripcion": "Indio Canela 8 onz Molido Val.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6663,7 +6663,7 @@
     {
       "codigo": "10131",
       "descripcion": "Indio Chocolate 8 Onz Moli-Val",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6672,7 +6672,7 @@
     {
       "codigo": "10132",
       "descripcion": "Indio Avellana 8 onz Molid-val",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6681,7 +6681,7 @@
     {
       "codigo": "10133",
       "descripcion": "Indio Gourmet Refill 1 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6690,7 +6690,7 @@
     {
       "codigo": "10134",
       "descripcion": "Indio Gourmet Refill (In Room)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6699,7 +6699,7 @@
     {
       "codigo": "10135",
       "descripcion": "Indio Bolsa Tipica",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6708,7 +6708,7 @@
     {
       "codigo": "10136",
       "descripcion": "Indio Bolsa Tipica H.P.G.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6717,7 +6717,7 @@
     {
       "codigo": "10137",
       "descripcion": "Indio Bolsa Tipica H.P.S.M.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6726,7 +6726,7 @@
     {
       "codigo": "10138",
       "descripcion": "Indio Bolsa Tipica H.P.L.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6735,7 +6735,7 @@
     {
       "codigo": "10139",
       "descripcion": "Indio Amareto 8 Onz Gourmet",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6744,7 +6744,7 @@
     {
       "codigo": "10140",
       "descripcion": "Indio Pina Colada 8 Onz Gourme",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6753,7 +6753,7 @@
     {
       "codigo": "10141",
       "descripcion": "Indio Vainilla 8 Onz Gourmet",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6762,7 +6762,7 @@
     {
       "codigo": "10142",
       "descripcion": "Indio Canela 8 Onz Gourmet",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6771,7 +6771,7 @@
     {
       "codigo": "10143",
       "descripcion": "Indio Chocolate 8 Onz Gourmet",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6780,7 +6780,7 @@
     {
       "codigo": "10144",
       "descripcion": "Indio Avellana 8 Onz Gourmet",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6789,7 +6789,7 @@
     {
       "codigo": "10145",
       "descripcion": "Indio En Grano 100% Puro 1 Lbs",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6798,7 +6798,7 @@
     {
       "codigo": "10146",
       "descripcion": "Indio 100% Puro 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6807,7 +6807,7 @@
     {
       "codigo": "10147",
       "descripcion": "Indio Amareto 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6816,7 +6816,7 @@
     {
       "codigo": "10148",
       "descripcion": "Indio Pina Colada 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6825,7 +6825,7 @@
     {
       "codigo": "10149",
       "descripcion": "Indio Vainilla 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6834,7 +6834,7 @@
     {
       "codigo": "10150",
       "descripcion": "Indio Canela 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6843,7 +6843,7 @@
     {
       "codigo": "10151",
       "descripcion": "Indio Chocolate 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6852,7 +6852,7 @@
     {
       "codigo": "10152",
       "descripcion": "Indio Avellana 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6861,7 +6861,7 @@
     {
       "codigo": "10153",
       "descripcion": "Indio Express puro 2 lbs Grano",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 25.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6870,7 +6870,7 @@
     {
       "codigo": "10154",
       "descripcion": "Indio Express 2 Lbs Descafeina",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6879,7 +6879,7 @@
     {
       "codigo": "10155",
       "descripcion": "Indio 100% puro 2.5 Onz.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6888,7 +6888,7 @@
     {
       "codigo": "10156",
       "descripcion": "Indio Espresso Roast 100% Puro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6897,7 +6897,7 @@
     {
       "codigo": "10157",
       "descripcion": "Indio Medium Roast 100% Puro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6906,7 +6906,7 @@
     {
       "codigo": "10158",
       "descripcion": "Indio Turkish Style",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6915,7 +6915,7 @@
     {
       "codigo": "10159",
       "descripcion": "Indio 100% Puro 4 Onzas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6924,7 +6924,7 @@
     {
       "codigo": "10160",
       "descripcion": "Indio Espresso Roast 12 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6933,7 +6933,7 @@
     {
       "codigo": "10161",
       "descripcion": "Indio Espresso Roast 12 Onz(Gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6942,7 +6942,7 @@
     {
       "codigo": "10162",
       "descripcion": "Indio Tipo Arabe 12 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6951,7 +6951,7 @@
     {
       "codigo": "10163",
       "descripcion": "Indio Percolador 12 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6960,7 +6960,7 @@
     {
       "codigo": "10164",
       "descripcion": "Indio Medium Roast 12 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 36.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6969,7 +6969,7 @@
     {
       "codigo": "10165",
       "descripcion": "Indio Medium Roast 12 Onz (Grano)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 40.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6978,7 +6978,7 @@
     {
       "codigo": "10166",
       "descripcion": "Indio Capuccino 8 Onzas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6987,7 +6987,7 @@
     {
       "codigo": "10167",
       "descripcion": "Indio Capuccino 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -6996,7 +6996,7 @@
     {
       "codigo": "10168",
       "descripcion": "Indio Arabe 1 Lbs Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7005,7 +7005,7 @@
     {
       "codigo": "10169",
       "descripcion": "Indio Percolador 1 Lbs.Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7014,7 +7014,7 @@
     {
       "codigo": "10171",
       "descripcion": "Indio 6 Onz Percolador",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7023,7 +7023,7 @@
     {
       "codigo": "10172",
       "descripcion": "Indio Espresso 1 Libra Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7032,7 +7032,7 @@
     {
       "codigo": "10173",
       "descripcion": "Indio Medium 1 Libra Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7041,7 +7041,7 @@
     {
       "codigo": "10174",
       "descripcion": "Indio Espresso 4 Libras Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7050,7 +7050,7 @@
     {
       "codigo": "10175",
       "descripcion": "Indio Medium 2.75 Onz Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7059,7 +7059,7 @@
     {
       "codigo": "10176",
       "descripcion": "Indio Espresso 2.75 Onz Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7068,7 +7068,7 @@
     {
       "codigo": "10177",
       "descripcion": "Indio Medium 2.5 Onz Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7077,7 +7077,7 @@
     {
       "codigo": "10178",
       "descripcion": "Indio Espresso 2 Onz Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7086,7 +7086,7 @@
     {
       "codigo": "10179",
       "descripcion": "Indio Medium 2 Onz Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7095,7 +7095,7 @@
     {
       "codigo": "10180",
       "descripcion": "Indio Tradicional 4 Onzas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7104,7 +7104,7 @@
     {
       "codigo": "10181",
       "descripcion": "Indio Espresso 1 lb Grano Puro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7113,7 +7113,7 @@
     {
       "codigo": "10182",
       "descripcion": "Indio Bolsa 1 oz Amaretto",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7122,7 +7122,7 @@
     {
       "codigo": "10183",
       "descripcion": "Indio Bolsa 1 oz Vainilla",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7131,7 +7131,7 @@
     {
       "codigo": "10184",
       "descripcion": "Indio Bolsa 1 oz Canela",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7140,7 +7140,7 @@
     {
       "codigo": "10185",
       "descripcion": "Indio Bolsa 1 oz Avellana",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7149,7 +7149,7 @@
     {
       "codigo": "10186",
       "descripcion": "Indio Bolsa 1 oz Chocolate",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7158,7 +7158,7 @@
     {
       "codigo": "10187",
       "descripcion": "Indio Bolsa 1 oz Capuccino",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7167,7 +7167,7 @@
     {
       "codigo": "10188",
       "descripcion": "Indio Kraft 8 oz Amaretto",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7176,7 +7176,7 @@
     {
       "codigo": "10189",
       "descripcion": "Indio Kraft 8 oz Vainilla",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7185,7 +7185,7 @@
     {
       "codigo": "10190",
       "descripcion": "Indio 1 Libra (empl)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7194,7 +7194,7 @@
     {
       "codigo": "10191",
       "descripcion": "Indio Tradicional 1 Onza",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7203,7 +7203,7 @@
     {
       "codigo": "10192",
       "descripcion": "Indio Kraft 8 oz Canela",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7212,7 +7212,7 @@
     {
       "codigo": "10193",
       "descripcion": "Indio Kraft 8 oz Avellana",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7221,7 +7221,7 @@
     {
       "codigo": "10194",
       "descripcion": "Indio Kraft 8 oz Chocolate",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7230,7 +7230,7 @@
     {
       "codigo": "10195",
       "descripcion": "Indio Kraft 8 oz Capuccino",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7239,7 +7239,7 @@
     {
       "codigo": "10196",
       "descripcion": "Indio Torrefacto 2 PK/1 Lb",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7248,7 +7248,7 @@
     {
       "codigo": "10197",
       "descripcion": "Indio Tradicional 14 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7257,7 +7257,7 @@
     {
       "codigo": "10198",
       "descripcion": "Indio 1 Oz Tostado Espresso Promocional",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7266,7 +7266,7 @@
     {
       "codigo": "10199",
       "descripcion": "Indio 1 Oz Tostado Medio Promocional",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7275,7 +7275,7 @@
     {
       "codigo": "10201",
       "descripcion": "Oro 16 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7284,7 +7284,7 @@
     {
       "codigo": "10202",
       "descripcion": "Oro 1 Libra Generico",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7293,7 +7293,7 @@
     {
       "codigo": "10203",
       "descripcion": "Oro 8 onz Pol",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 25.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7302,7 +7302,7 @@
     {
       "codigo": "10204",
       "descripcion": "Oro 8 onz Kraft",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7311,7 +7311,7 @@
     {
       "codigo": "10205",
       "descripcion": "Oro 6 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7320,7 +7320,7 @@
     {
       "codigo": "10206",
       "descripcion": "Oro Puro 6 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7329,7 +7329,7 @@
     {
       "codigo": "10210",
       "descripcion": "Oro 432 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7338,7 +7338,7 @@
     {
       "codigo": "102100",
       "descripcion": "Caja de Exportacion Oro 432 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 30.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7347,7 +7347,7 @@
     {
       "codigo": "102101",
       "descripcion": "Oro 2 pack 432 Grs",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7356,7 +7356,7 @@
     {
       "codigo": "102102",
       "descripcion": "Oro 405 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7365,7 +7365,7 @@
     {
       "codigo": "102103",
       "descripcion": "Caja de Exportacion Oro 390 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7374,7 +7374,7 @@
     {
       "codigo": "102104",
       "descripcion": "Oro Soluble 170 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7383,7 +7383,7 @@
     {
       "codigo": "10211",
       "descripcion": "Oro 216 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7392,7 +7392,7 @@
     {
       "codigo": "10213",
       "descripcion": "Oro 2PK 432 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7401,7 +7401,7 @@
     {
       "codigo": "10214",
       "descripcion": "Oro 378 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7410,7 +7410,7 @@
     {
       "codigo": "10215",
       "descripcion": "Oro 1 onz Promocional",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7419,7 +7419,7 @@
     {
       "codigo": "10291",
       "descripcion": "Oro 1 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7428,7 +7428,7 @@
     {
       "codigo": "10296",
       "descripcion": "Oro Torrefacto 2 PK/1 Lb",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7437,7 +7437,7 @@
     {
       "codigo": "10297",
       "descripcion": "Oro 1 libra lam Kraft",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7446,7 +7446,7 @@
     {
       "codigo": "10298",
       "descripcion": "Oro 14 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7455,7 +7455,7 @@
     {
       "codigo": "10299",
       "descripcion": "Poli 8 Onzas Oro Temporal",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7464,7 +7464,7 @@
     {
       "codigo": "10301",
       "descripcion": "Rey 16 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7473,7 +7473,7 @@
     {
       "codigo": "10302",
       "descripcion": "Rey 1 Libra Generico",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7482,7 +7482,7 @@
     {
       "codigo": "10303",
       "descripcion": "Rey 8 onz Pol",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7491,7 +7491,7 @@
     {
       "codigo": "10304",
       "descripcion": "Rey 8 onz Kraft",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7500,7 +7500,7 @@
     {
       "codigo": "10305",
       "descripcion": "Rey 6 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7509,7 +7509,7 @@
     {
       "codigo": "10306",
       "descripcion": "Rey Puro 6 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7518,7 +7518,7 @@
     {
       "codigo": "10310",
       "descripcion": "Rey 432 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7527,7 +7527,7 @@
     {
       "codigo": "103100",
       "descripcion": "Rey 208 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7536,7 +7536,7 @@
     {
       "codigo": "103101",
       "descripcion": "Rey 364 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7545,7 +7545,7 @@
     {
       "codigo": "10314",
       "descripcion": "Rey 378 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7554,7 +7554,7 @@
     {
       "codigo": "10315",
       "descripcion": "Rey 1 Onz Promocional",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7563,7 +7563,7 @@
     {
       "codigo": "10397",
       "descripcion": "Rey Bolsa Kraft 14 Onzas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7572,7 +7572,7 @@
     {
       "codigo": "10398",
       "descripcion": "Rey 14 Onzas Kraft Temporal",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7581,7 +7581,7 @@
     {
       "codigo": "10399",
       "descripcion": "Rey 390 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7590,7 +7590,7 @@
     {
       "codigo": "10401",
       "descripcion": "Corona 16 Onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7599,7 +7599,7 @@
     {
       "codigo": "10402",
       "descripcion": "Corona 1 Lbs Generico",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7608,7 +7608,7 @@
     {
       "codigo": "10410",
       "descripcion": "Corona 432 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7617,7 +7617,7 @@
     {
       "codigo": "10415",
       "descripcion": "Corona 1 Onz Promocional",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7626,7 +7626,7 @@
     {
       "codigo": "10416",
       "descripcion": "Corona 390 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7635,7 +7635,7 @@
     {
       "codigo": "10501",
       "descripcion": "Delicia 16 onz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7644,7 +7644,7 @@
     {
       "codigo": "10502",
       "descripcion": "Delicia 1 Lbs (Generico)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7653,7 +7653,7 @@
     {
       "codigo": "10510",
       "descripcion": "Delicia 432 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7662,7 +7662,7 @@
     {
       "codigo": "10515",
       "descripcion": "Delicia 1 onz promocional",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7671,7 +7671,7 @@
     {
       "codigo": "10516",
       "descripcion": "Delicia 375 gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7680,7 +7680,7 @@
     {
       "codigo": "10671",
       "descripcion": "Azucar sobre 5 gramos",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7689,7 +7689,7 @@
     {
       "codigo": "10672",
       "descripcion": "Azucar 5 Grms H. Intercontinen",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7698,7 +7698,7 @@
     {
       "codigo": "10673",
       "descripcion": "Azucar Quintal de 100 Libras",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7707,7 +7707,7 @@
     {
       "codigo": "10674",
       "descripcion": "Tortinena Presentacion 20 Und",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7716,7 +7716,7 @@
     {
       "codigo": "10675",
       "descripcion": "Tortinena Presentacion 30 Und",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7725,7 +7725,7 @@
     {
       "codigo": "10676",
       "descripcion": "Tortinena Nachos 255 Gramos",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7734,7 +7734,7 @@
     {
       "codigo": "10677",
       "descripcion": "Tortinena 24 Und",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7743,7 +7743,7 @@
     {
       "codigo": "10701",
       "descripcion": "Galletas Marinela Paq. 12 Unid",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7752,7 +7752,7 @@
     {
       "codigo": "10702",
       "descripcion": "Galleta Girasol Bolsa 12 Unid.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7761,7 +7761,7 @@
     {
       "codigo": "10703",
       "descripcion": "Galleta Mi Merienda Paq. 6 Uni",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7770,7 +7770,7 @@
     {
       "codigo": "10704",
       "descripcion": "Galleta Granel Vainilla Bolsa",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7779,7 +7779,7 @@
     {
       "codigo": "10705",
       "descripcion": "Galletas Sion Paquete de 12/1",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7788,7 +7788,7 @@
     {
       "codigo": "10706",
       "descripcion": "Semitas Sion Paquete de 8/1",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7797,7 +7797,7 @@
     {
       "codigo": "10707",
       "descripcion": "Galleta Artesanas Orig 100gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7806,7 +7806,7 @@
     {
       "codigo": "10708",
       "descripcion": "Galleta Artesanas Coco 100gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7815,7 +7815,7 @@
     {
       "codigo": "10709",
       "descripcion": "Galleta Artesanas Naranja 100g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7824,7 +7824,7 @@
     {
       "codigo": "10710",
       "descripcion": "Galleta Artesanas Orig 50gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7833,7 +7833,7 @@
     {
       "codigo": "10711",
       "descripcion": "Galleta Artesanas Coco 50gr",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7842,7 +7842,7 @@
     {
       "codigo": "10801",
       "descripcion": "Indio Amaretto 12 onz /R",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7851,7 +7851,7 @@
     {
       "codigo": "10802",
       "descripcion": "Indio Vainilla12 onz /R",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7860,7 +7860,7 @@
     {
       "codigo": "10803",
       "descripcion": "Indio Canela12 onz /R",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7869,7 +7869,7 @@
     {
       "codigo": "10804",
       "descripcion": "Indio Avellana 12 onz /R",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7878,7 +7878,7 @@
     {
       "codigo": "10805",
       "descripcion": "Indio Chocolate12 onz /R",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7887,7 +7887,7 @@
     {
       "codigo": "10806",
       "descripcion": "Indio Capuccino12 onz /R",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7896,7 +7896,7 @@
     {
       "codigo": "11001",
       "descripcion": "Kool Aid Naranja 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7905,7 +7905,7 @@
     {
       "codigo": "11002",
       "descripcion": "Kool Aid Jamaica 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7914,7 +7914,7 @@
     {
       "codigo": "11003",
       "descripcion": "Kool Aid Mango 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7923,7 +7923,7 @@
     {
       "codigo": "11004",
       "descripcion": "Kool Aid Fresa 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7932,7 +7932,7 @@
     {
       "codigo": "11005",
       "descripcion": "Kool Aid Tamarindo 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7941,7 +7941,7 @@
     {
       "codigo": "11006",
       "descripcion": "Kool Aid Limon 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7950,7 +7950,7 @@
     {
       "codigo": "11101",
       "descripcion": "Café Procesado Genérico - Molido",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7959,7 +7959,7 @@
     {
       "codigo": "20101",
       "descripcion": "Plato Llano",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7968,7 +7968,7 @@
     {
       "codigo": "20102",
       "descripcion": "Plato hondo",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7977,7 +7977,7 @@
     {
       "codigo": "20103",
       "descripcion": "Tasa y Platillo",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7986,7 +7986,7 @@
     {
       "codigo": "20104",
       "descripcion": "Taza",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -7995,7 +7995,7 @@
     {
       "codigo": "20105",
       "descripcion": "Taza de Porcelana con Logo",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8004,7 +8004,7 @@
     {
       "codigo": "20201",
       "descripcion": "Percoladora Hamilton 42 Tazas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8013,7 +8013,7 @@
     {
       "codigo": "20202",
       "descripcion": "Percoladora Hamilton 42 tazas (Usadas)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8022,7 +8022,7 @@
     {
       "codigo": "20203",
       "descripcion": "Sticker Café El Indio para percoladoras",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8031,7 +8031,7 @@
     {
       "codigo": "20204",
       "descripcion": "Sticker Café Oro para percoladoras",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8040,7 +8040,7 @@
     {
       "codigo": "20205",
       "descripcion": "Sticker Compartido cliente comodato",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8049,7 +8049,7 @@
     {
       "codigo": "20206",
       "descripcion": "Cafetera Protoc Silex 12 Tazas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8058,7 +8058,7 @@
     {
       "codigo": "20207",
       "descripcion": "Percoladora Hamilton de 45 tasas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8067,7 +8067,7 @@
     {
       "codigo": "20208",
       "descripcion": "Percolodoras Hamilton 45 Tazas (Usadas)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8076,7 +8076,7 @@
     {
       "codigo": "20209",
       "descripcion": "Percoladora Proctor Silex 12 Tazas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8085,7 +8085,7 @@
     {
       "codigo": "20210",
       "descripcion": "Percoladora Hamilton 40 Tazas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8094,7 +8094,7 @@
     {
       "codigo": "20301",
       "descripcion": "Exhibidores Metalicos Aereos 6 Espacios",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8103,7 +8103,7 @@
     {
       "codigo": "20302",
       "descripcion": "Cabezas de ristras",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8112,7 +8112,7 @@
     {
       "codigo": "20303",
       "descripcion": "Vasos de cartón con logo tamaño",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8121,7 +8121,7 @@
     {
       "codigo": "20304",
       "descripcion": "Vasos de Foamy blancos tamaño",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8130,7 +8130,7 @@
     {
       "codigo": "20305",
       "descripcion": "Vasos transparentes con tapadera",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8139,7 +8139,7 @@
     {
       "codigo": "20306",
       "descripcion": "Pajillas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8148,7 +8148,7 @@
     {
       "codigo": "20307",
       "descripcion": "Removedores",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8157,7 +8157,7 @@
     {
       "codigo": "20308",
       "descripcion": "Tape transparente 2 x 200",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8166,7 +8166,7 @@
     {
       "codigo": "20309",
       "descripcion": "Bolsas de 6 x 10",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8175,7 +8175,7 @@
     {
       "codigo": "20310",
       "descripcion": "Afiches",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8184,7 +8184,7 @@
     {
       "codigo": "20311",
       "descripcion": "Papel para Forrar",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8193,7 +8193,7 @@
     {
       "codigo": "20312",
       "descripcion": "Preciadores",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8202,7 +8202,7 @@
     {
       "codigo": "20313",
       "descripcion": "Habladores de Gondola Café El Indio",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8211,7 +8211,7 @@
     {
       "codigo": "20314",
       "descripcion": "Habladores de Gondola Café Oro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8220,7 +8220,7 @@
     {
       "codigo": "20315",
       "descripcion": "Habladores de Gondola Café El Indio-Logo Paiz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8229,7 +8229,7 @@
     {
       "codigo": "20316",
       "descripcion": "Habladores de Gondola Café El Indio-Logo Maxi Despensa",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8238,7 +8238,7 @@
     {
       "codigo": "20317",
       "descripcion": "Exhibidores Metalicos Aereos 2 Espacios",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8247,7 +8247,7 @@
     {
       "codigo": "20318",
       "descripcion": "Vasos Plasticos Sparta 9 onzas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8256,7 +8256,7 @@
     {
       "codigo": "20319",
       "descripcion": "Platos Plasticos Cuadrado Hondo",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8265,7 +8265,7 @@
     {
       "codigo": "20320",
       "descripcion": "Vasito Sparta 9 Onzas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8274,7 +8274,7 @@
     {
       "codigo": "20321",
       "descripcion": "Exhibidor con tubo Estructural",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8283,7 +8283,7 @@
     {
       "codigo": "20322",
       "descripcion": "Vaso de Cartón #6 Color Negro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8292,7 +8292,7 @@
     {
       "codigo": "20323",
       "descripcion": "Vaso Acrilico #10 P/Granita",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8301,7 +8301,7 @@
     {
       "codigo": "20324",
       "descripcion": "Tapa Pet Plana Traslucida",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8310,7 +8310,7 @@
     {
       "codigo": "20325",
       "descripcion": "Vaso de Cartón #8 Color Blanco",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8319,7 +8319,7 @@
     {
       "codigo": "20401",
       "descripcion": "Leche Fluida de 1 litro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8328,7 +8328,7 @@
     {
       "codigo": "20402",
       "descripcion": "Kool Aid Naranja 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8337,7 +8337,7 @@
     {
       "codigo": "20403",
       "descripcion": "Kool Aid Jamaica 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8346,7 +8346,7 @@
     {
       "codigo": "20404",
       "descripcion": "Kool Aid Mango 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8355,7 +8355,7 @@
     {
       "codigo": "20405",
       "descripcion": "Kool Aid Fresa 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8364,7 +8364,7 @@
     {
       "codigo": "20406",
       "descripcion": "Kool Aid Tamarindo 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8373,7 +8373,7 @@
     {
       "codigo": "20407",
       "descripcion": "Kool Aid Limon 20g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8382,7 +8382,7 @@
     {
       "codigo": "20501",
       "descripcion": "Cuadernos de Tarea Café Oro",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8391,7 +8391,7 @@
     {
       "codigo": "20502",
       "descripcion": "Del Rancho Rosquillas Criollas 23g",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8400,7 +8400,7 @@
     {
       "codigo": "20503",
       "descripcion": "Colador de Café de Manta Aro Normal",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8409,7 +8409,7 @@
     {
       "codigo": "20601",
       "descripcion": "Refrigeradora Frigidaire 9FTP",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8418,7 +8418,7 @@
     {
       "codigo": "20602",
       "descripcion": "Televisor Led JVC",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8427,7 +8427,7 @@
     {
       "codigo": "20603",
       "descripcion": "Televisor RCA 40\"",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8436,7 +8436,7 @@
     {
       "codigo": "20604",
       "descripcion": "Estufa Eléctrica Whirlpool 30” blanca",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8445,7 +8445,7 @@
     {
       "codigo": "20605",
       "descripcion": "Lavadora Frigidaire 16 KG",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8454,7 +8454,7 @@
     {
       "codigo": "20606",
       "descripcion": "Minisplit Premium 12000 BTU",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8463,7 +8463,7 @@
     {
       "codigo": "20607",
       "descripcion": "Microondas Digital Frigidaire Blanco",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8472,7 +8472,7 @@
     {
       "codigo": "20608",
       "descripcion": "HornoTostador Proctor Sílex Blanco",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8481,7 +8481,7 @@
     {
       "codigo": "20609",
       "descripcion": "Parlante Inal Sony",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8490,7 +8490,7 @@
     {
       "codigo": "20610",
       "descripcion": "Tableta Tekno 7.0”",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8499,7 +8499,7 @@
     {
       "codigo": "20611",
       "descripcion": "Estufa Mesa Eléctrica",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8508,7 +8508,7 @@
     {
       "codigo": "20612",
       "descripcion": "Estufa a Gas de 4 Quemadores Brianna 21´´",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8517,7 +8517,7 @@
     {
       "codigo": "20613",
       "descripcion": "Televisor LED 50¨ SMART 4K/SAMSUNG UN50-AU7000",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8526,7 +8526,7 @@
     {
       "codigo": "20614",
       "descripcion": "Televisor TCL 32”",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8535,7 +8535,7 @@
     {
       "codigo": "20615",
       "descripcion": "Plancha Vapor Oster/Rosa",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8544,7 +8544,7 @@
     {
       "codigo": "20616",
       "descripcion": "Olla Arrocera Superchef 10 Tazas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8553,7 +8553,7 @@
     {
       "codigo": "20617",
       "descripcion": "Microondas Royal Blanco",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8562,7 +8562,7 @@
     {
       "codigo": "20618",
       "descripcion": "Percoladora Superchef 12 Tazas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8571,7 +8571,7 @@
     {
       "codigo": "20619",
       "descripcion": "Televisor 58\" Hisense",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8580,7 +8580,7 @@
     {
       "codigo": "20701",
       "descripcion": "Canastas Familiares",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8589,7 +8589,7 @@
     {
       "codigo": "20702",
       "descripcion": "Ventiladores",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8598,7 +8598,7 @@
     {
       "codigo": "20703",
       "descripcion": "Mueble Armado con Fibran Exhibidor",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8607,7 +8607,7 @@
     {
       "codigo": "20704",
       "descripcion": "Mueble de Madera Exhibidor",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8616,7 +8616,7 @@
     {
       "codigo": "20705",
       "descripcion": "Mini Tazon Café de Porcelana",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8625,7 +8625,7 @@
     {
       "codigo": "20706",
       "descripcion": "Colador con Mango Grande No.1",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8634,7 +8634,7 @@
     {
       "codigo": "20707",
       "descripcion": "Cucharon para Spaguetti",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8643,7 +8643,7 @@
     {
       "codigo": "20708",
       "descripcion": "Cucharon Sopero",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8652,7 +8652,7 @@
     {
       "codigo": "20709",
       "descripcion": "Cucharon arrocero",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8661,7 +8661,7 @@
     {
       "codigo": "20710",
       "descripcion": "Spatula",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8670,7 +8670,7 @@
     {
       "codigo": "20711",
       "descripcion": "Cucharon Escurridor Redondo",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8679,7 +8679,7 @@
     {
       "codigo": "20712",
       "descripcion": "Cucharon Escurridor Pequeño",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8688,7 +8688,7 @@
     {
       "codigo": "20713",
       "descripcion": "Afiches Promocionales",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8697,7 +8697,7 @@
     {
       "codigo": "20714",
       "descripcion": "Banner Promocionales",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8706,7 +8706,7 @@
     {
       "codigo": "20715",
       "descripcion": "Escurridor Fino Neo",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8715,7 +8715,7 @@
     {
       "codigo": "20716",
       "descripcion": "Sanwichera Sparta",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8724,7 +8724,7 @@
     {
       "codigo": "20717",
       "descripcion": "Papel Sticker Autoadherible T.Carta",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8733,7 +8733,7 @@
     {
       "codigo": "20718",
       "descripcion": "Bolsa Plastica 12x22x1.20",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8742,7 +8742,7 @@
     {
       "codigo": "20719",
       "descripcion": "Balon Nemon",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8751,7 +8751,7 @@
     {
       "codigo": "20720",
       "descripcion": "Mochila Spook",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8760,7 +8760,7 @@
     {
       "codigo": "20721",
       "descripcion": "Frisbee Contour",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8769,7 +8769,7 @@
     {
       "codigo": "20722",
       "descripcion": "Anfora Sinker",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8778,7 +8778,7 @@
     {
       "codigo": "20723",
       "descripcion": "Mesa Plegable Personal",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8787,7 +8787,7 @@
     {
       "codigo": "20724",
       "descripcion": "Ruleta Giratoria",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8796,7 +8796,7 @@
     {
       "codigo": "20725",
       "descripcion": "Degustadores Metalicos",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8805,7 +8805,7 @@
     {
       "codigo": "20726",
       "descripcion": "Hieleras 4.5 LT Rojas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8814,7 +8814,7 @@
     {
       "codigo": "20727",
       "descripcion": "Pinzas P/Hielo Acero Inoxidable",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8823,7 +8823,7 @@
     {
       "codigo": "20728",
       "descripcion": "Copita Transparente 4 Onzas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8832,7 +8832,7 @@
     {
       "codigo": "20729",
       "descripcion": "Carpa de 3x3 Metros",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8841,7 +8841,7 @@
     {
       "codigo": "20730",
       "descripcion": "Licuadora Proctor Silex 10 Velocidades",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8850,7 +8850,7 @@
     {
       "codigo": "20731",
       "descripcion": "Sandwichera Proctor Silex 4 Slice",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8859,7 +8859,7 @@
     {
       "codigo": "20732",
       "descripcion": "Galletas Delipueblo 260 gramos",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8868,7 +8868,7 @@
     {
       "codigo": "20733",
       "descripcion": "Paquete de Galletas de Chocolate Elite 288 gr.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8877,7 +8877,7 @@
     {
       "codigo": "20734",
       "descripcion": "Balon de Football Molten No.5",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8886,7 +8886,7 @@
     {
       "codigo": "20735",
       "descripcion": "Bic. Bacini MTB #20 Pantano Niño S/C",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8895,7 +8895,7 @@
     {
       "codigo": "20736",
       "descripcion": "Bic. Bacini  #20 Arena Lady Aro Aluminio",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8904,7 +8904,7 @@
     {
       "codigo": "20737",
       "descripcion": "Alcancia Piggy Money Box",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8913,7 +8913,7 @@
     {
       "codigo": "20738",
       "descripcion": "Espaciadores de Parqueos",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8922,7 +8922,7 @@
     {
       "codigo": "20739",
       "descripcion": "Piñatas",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8931,7 +8931,7 @@
     {
       "codigo": "20740",
       "descripcion": "Confites",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8940,7 +8940,7 @@
     {
       "codigo": "20741",
       "descripcion": "Cucharon Pequeño Neo Colores",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8949,7 +8949,7 @@
     {
       "codigo": "20742",
       "descripcion": "Vaso 16 Onzas Plastico",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8958,7 +8958,7 @@
     {
       "codigo": "20743",
       "descripcion": "Bolsa de playa de polipropileno",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8967,7 +8967,7 @@
     {
       "codigo": "20744",
       "descripcion": "Abanico de Nylon",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8976,7 +8976,7 @@
     {
       "codigo": "20745",
       "descripcion": "Pelota de playa de 12",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8985,7 +8985,7 @@
     {
       "codigo": "20746",
       "descripcion": "Cuachara medidora con clip de acero inoxidable",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -8994,7 +8994,7 @@
     {
       "codigo": "20747",
       "descripcion": "Caja de Cartón Lamina Transparente",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9003,7 +9003,7 @@
     {
       "codigo": "20748",
       "descripcion": "Guacal # 2",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9012,7 +9012,7 @@
     {
       "codigo": "20749",
       "descripcion": "Canastita Ovalada",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9021,7 +9021,7 @@
     {
       "codigo": "20750",
       "descripcion": "Pelador y Rayador",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9030,7 +9030,7 @@
     {
       "codigo": "20751",
       "descripcion": "Toallitas p/Cocina",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9039,7 +9039,7 @@
     {
       "codigo": "20752",
       "descripcion": "Taza de Plastico",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9048,7 +9048,7 @@
     {
       "codigo": "20753",
       "descripcion": "Envase Plastico",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9057,7 +9057,7 @@
     {
       "codigo": "200101",
       "descripcion": "Edificio los Dolores Tegucigalpa",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9066,7 +9066,7 @@
     {
       "codigo": "200102",
       "descripcion": "Edificio los Dolores Tegucigalpa",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9075,7 +9075,7 @@
     {
       "codigo": "200103",
       "descripcion": "Frente Almacen la Giralda Tegucigalpa",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9084,7 +9084,7 @@
     {
       "codigo": "200104",
       "descripcion": "4TA AVE 10 Y 11 CALLES SPS",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9093,7 +9093,7 @@
     {
       "codigo": "200105",
       "descripcion": "frente Almacen la Giralda Tegucigalpa",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9102,7 +9102,7 @@
     {
       "codigo": "200106",
       "descripcion": "4TA AVE 10 y 11 CALLES SPS",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9111,7 +9111,7 @@
     {
       "codigo": "200107",
       "descripcion": "Terreno San Pedro Sula",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9120,7 +9120,7 @@
     {
       "codigo": "200108",
       "descripcion": "Edificio en Barrio Las Acacias",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9129,7 +9129,7 @@
     {
       "codigo": "200111",
       "descripcion": "Alquileres Amarateca",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9138,7 +9138,7 @@
     {
       "codigo": "20011112",
       "descripcion": "Cancha de Football",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9147,7 +9147,7 @@
     {
       "codigo": "20011121",
       "descripcion": "Bodega 02",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9156,7 +9156,7 @@
     {
       "codigo": "20011122",
       "descripcion": "SERVICIOS DE ALQUILER DE BODEGAS (ALMACENAMIENTO DE AZUCAR)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9165,7 +9165,7 @@
     {
       "codigo": "200112",
       "descripcion": "Servicios Varios",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9174,7 +9174,7 @@
     {
       "codigo": "2001120",
       "descripcion": "Bodega 01",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9183,7 +9183,7 @@
     {
       "codigo": "200113",
       "descripcion": "Edificio Barrio San Isidro, El Paraíso",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9192,7 +9192,7 @@
     {
       "codigo": "200114",
       "descripcion": "Café Servido (Gold)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9201,7 +9201,7 @@
     {
       "codigo": "200115",
       "descripcion": "Café Servido (Silver)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9210,7 +9210,7 @@
     {
       "codigo": "200116",
       "descripcion": "Café Servido (Platinium)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9219,7 +9219,7 @@
     {
       "codigo": "200117",
       "descripcion": "Café Servido (Bronce)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9228,7 +9228,7 @@
     {
       "codigo": "200118",
       "descripcion": "Café Servido (Basico)",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9237,7 +9237,7 @@
     {
       "codigo": "200119",
       "descripcion": "Servicio de Café Ejecutivo",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9246,7 +9246,7 @@
     {
       "codigo": "210201",
       "descripcion": "Café Servido Granita",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9255,7 +9255,7 @@
     {
       "codigo": "210202",
       "descripcion": "Café Servido / Café Cappuccino",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9264,7 +9264,7 @@
     {
       "codigo": "210203",
       "descripcion": "Café Servido Café Latte",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9273,7 +9273,7 @@
     {
       "codigo": "210204",
       "descripcion": "Café Servido / Café Espresso",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9282,7 +9282,7 @@
     {
       "codigo": "210205",
       "descripcion": "Café Servido / Café Americano",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9291,7 +9291,7 @@
     {
       "codigo": "220101",
       "descripcion": "141040201006 HAT-8891 Isuzu",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9300,7 +9300,7 @@
     {
       "codigo": "220102",
       "descripcion": "141040201017 HAT-8860 International",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9309,7 +9309,7 @@
     {
       "codigo": "220103",
       "descripcion": "141040201014 HAT8861-International",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9318,7 +9318,7 @@
     {
       "codigo": "220104",
       "descripcion": "141040202009 HAT-9057 Toyotra 22R",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9327,7 +9327,7 @@
     {
       "codigo": "220105",
       "descripcion": "141040201013 HAT-8864 International Blanco",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9336,7 +9336,7 @@
     {
       "codigo": "220106",
       "descripcion": "141040201010 HAT-8865 Internacional Blanco",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9345,7 +9345,7 @@
     {
       "codigo": "220107",
       "descripcion": "141040201005 - HAT8878 - Camion",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9354,7 +9354,7 @@
     {
       "codigo": "220108",
       "descripcion": "141040201 008 - HAT9136 - Mercedes Benz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9363,7 +9363,7 @@
     {
       "codigo": "220109",
       "descripcion": "141040201012 - HAT9113 - Mercedes Benz",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9372,7 +9372,7 @@
     {
       "codigo": "220110",
       "descripcion": "141040201013 - HAT9072 - GMC",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9381,7 +9381,7 @@
     {
       "codigo": "220111",
       "descripcion": "141040201007 - HAT9100 - Isuzu",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9390,7 +9390,7 @@
     {
       "codigo": "220112",
       "descripcion": "141040201009 - HAT9123 - Isuzu",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9399,7 +9399,7 @@
     {
       "codigo": "220113",
       "descripcion": "HAT9146 - Chevrolet",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9408,7 +9408,7 @@
     {
       "codigo": "220114",
       "descripcion": "HAT9073 - Toyota",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9417,7 +9417,7 @@
     {
       "codigo": "220115",
       "descripcion": "141040102003 HAT8887- Blue Bird",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9426,7 +9426,7 @@
     {
       "codigo": "220116",
       "descripcion": "141040102002 HAT8886 - Toyota Blanco",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9435,7 +9435,7 @@
     {
       "codigo": "220117",
       "descripcion": "141040103010 HAT8883 - Toyota Coaster",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9444,7 +9444,7 @@
     {
       "codigo": "220118",
       "descripcion": "Material de proteccion Orejeras",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9453,7 +9453,7 @@
     {
       "codigo": "220119",
       "descripcion": "Material de empaque dañado",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9462,7 +9462,7 @@
     {
       "codigo": "220120",
       "descripcion": "Carton descartado",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9471,7 +9471,7 @@
     {
       "codigo": "220121",
       "descripcion": "HAT9112 CAMION NPR",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9480,7 +9480,7 @@
     {
       "codigo": "220122",
       "descripcion": "HAT9053 PICK UP B2900",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9489,7 +9489,7 @@
     {
       "codigo": "220123",
       "descripcion": "HAT9107 PANEL HIACE",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9498,7 +9498,7 @@
     {
       "codigo": "220124",
       "descripcion": "HAT8855 CAMION NPR",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9507,7 +9507,7 @@
     {
       "codigo": "220125",
       "descripcion": "HAT8872 CAMION NKR",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9516,7 +9516,7 @@
     {
       "codigo": "220126",
       "descripcion": "HAA0039 PANEL HIACE",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9525,7 +9525,7 @@
     {
       "codigo": "220127",
       "descripcion": "HAT9075 CAMION NKR",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9534,7 +9534,7 @@
     {
       "codigo": "220128",
       "descripcion": "HAT9060 CAMION MERCEDES",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9543,7 +9543,7 @@
     {
       "codigo": "220129",
       "descripcion": "HAT9145 PANEL HIACE",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9552,7 +9552,7 @@
     {
       "codigo": "220130",
       "descripcion": "HAT9125 PANEL HIACE",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9561,7 +9561,7 @@
     {
       "codigo": "220131",
       "descripcion": "HAT9117 PICK UP NISSAN",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9570,7 +9570,7 @@
     {
       "codigo": "220132",
       "descripcion": "HAT9122 PICK UP TOYOTA",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9579,7 +9579,7 @@
     {
       "codigo": "220133",
       "descripcion": "HAT9119 CAMION FTR",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9588,7 +9588,7 @@
     {
       "codigo": "220201",
       "descripcion": "Tanque de 8 mil libras",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9597,7 +9597,7 @@
     {
       "codigo": "220202",
       "descripcion": "Chatarra Varios",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9606,7 +9606,7 @@
     {
       "codigo": "220203",
       "descripcion": "Paneles Termicos dañados",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9615,7 +9615,7 @@
     {
       "codigo": "220204",
       "descripcion": "Cajones Dañados",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9624,7 +9624,7 @@
     {
       "codigo": "220205",
       "descripcion": "Cajon de Chatarra",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9633,7 +9633,7 @@
     {
       "codigo": "220206",
       "descripcion": "CHATARRA NUEVO",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9642,7 +9642,7 @@
     {
       "codigo": "220207",
       "descripcion": "Chatarra",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9651,7 +9651,7 @@
     {
       "codigo": "220208",
       "descripcion": "Tarima de Madera",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9660,7 +9660,7 @@
     {
       "codigo": "220209",
       "descripcion": "Fleje descartado",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9669,7 +9669,7 @@
     {
       "codigo": "220210",
       "descripcion": "Papel descartado",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9678,7 +9678,7 @@
     {
       "codigo": "220211",
       "descripcion": "Plastico descartado",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9687,7 +9687,7 @@
     {
       "codigo": "220212",
       "descripcion": "Carton de descarte en LB",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9696,7 +9696,7 @@
     {
       "codigo": "220213",
       "descripcion": "Plastico de descarte en LB",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9705,7 +9705,7 @@
     {
       "codigo": "220214",
       "descripcion": "Hierro de descarte en LB",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9714,7 +9714,7 @@
     {
       "codigo": "220215",
       "descripcion": "Aceite Quemado",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9723,7 +9723,7 @@
     {
       "codigo": "220216",
       "descripcion": "RAEE LB",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9732,7 +9732,7 @@
     {
       "codigo": "220217",
       "descripcion": "Chatarra descartada",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9741,7 +9741,7 @@
     {
       "codigo": "220218",
       "descripcion": "Chatarra Varia",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9750,7 +9750,7 @@
     {
       "codigo": "220219",
       "descripcion": "Sacos para descarte",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9759,7 +9759,7 @@
     {
       "codigo": "220220",
       "descripcion": "Chatarra taller",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9768,7 +9768,7 @@
     {
       "codigo": "220221",
       "descripcion": "Papel Kraft",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9777,7 +9777,7 @@
     {
       "codigo": "220222",
       "descripcion": "Core",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9786,7 +9786,7 @@
     {
       "codigo": "220223",
       "descripcion": "Terreno",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9795,7 +9795,7 @@
     {
       "codigo": "220224",
       "descripcion": "Acero HMS",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9804,7 +9804,7 @@
     {
       "codigo": "220225",
       "descripcion": "Aluminio UBC",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9813,7 +9813,7 @@
     {
       "codigo": "220226",
       "descripcion": "PET",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9822,7 +9822,7 @@
     {
       "codigo": "220227",
       "descripcion": "Tubos de Carton",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9831,7 +9831,7 @@
     {
       "codigo": "220301",
       "descripcion": "Cafe Resaca",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9840,7 +9840,7 @@
     {
       "codigo": "220302",
       "descripcion": "Sacos de Carga",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9849,7 +9849,7 @@
     {
       "codigo": "220303",
       "descripcion": "Cafe Resaca.",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9858,7 +9858,7 @@
     {
       "codigo": "220304",
       "descripcion": "Cafe HG",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9867,7 +9867,7 @@
     {
       "codigo": "220305",
       "descripcion": "Cafe QQ HG",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9876,7 +9876,7 @@
     {
       "codigo": "220306",
       "descripcion": "QQ CAFE HG",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
@@ -9885,7 +9885,7 @@
     {
       "codigo": "220307",
       "descripcion": "Cafe Corriente",
-      "proveedor": "GK - SAND",
+      "proveedor": "GKSA",
       "factor": 60.0,
       "unidades_por_cama": "",
       "camas_por_tarima": "",
