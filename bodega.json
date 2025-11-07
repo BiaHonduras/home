@@ -201,7 +201,7 @@
   {
     "codigo": "100083",
     "descripcion": "Café Maya instantáneo 36g 1x50x20x1.8g",
-    "proveedor": "TORR DE CA",
+    "proveedor": "MCM",
     "factor": 50.0,
     "unidades_por_cama": "",
     "camas_por_tarima": "",
@@ -1382,6 +1382,15 @@
     "descripcion": "Oro 2 pack 378 g",
     "proveedor": "GKSA",
     "factor": 32.0,
+    "unidades_por_cama": "",
+    "camas_por_tarima": "",
+    "imagen": ""
+  },
+  {
+    "codigo": "170069",
+    "descripcion": "Oro Torrefacto 432 g 1x16x27g Canasta",
+    "proveedor": "GKSA",
+    "factor": 60.0,
     "unidades_por_cama": "",
     "camas_por_tarima": "",
     "imagen": ""
